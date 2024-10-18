@@ -1,0 +1,13 @@
+body{display: flex;
+    justify-content:center;
+
+}
+.bt1{
+    background-color: blue;
+}
+.bt2{background-color: blueviolet;
+
+}
+.bt3{
+    background-color: brown;
+}
