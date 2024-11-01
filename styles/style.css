@@ -131,10 +131,7 @@ section {
   margin: 1rem auto;
 }
 
-/* button styles */
-
 /* images styles */
-
 .sub-one {
   color: blue;
 }
@@ -172,7 +169,6 @@ img {
   display: flex;
   align-content: space-between;
   justify-content: space-between;
-  display: flex;
   flex-wrap: wrap;
   width: 100%;
 }
