@@ -21,7 +21,7 @@ body {
   color: white;
   margin: 0;
 }
- 
+
 .section-seven {
   width: 98%;
   display: flex;
@@ -30,12 +30,12 @@ body {
   gap: 1.4rem;
   box-shadow: 1px 2px 1px 2px #413c3c;
 }
-  
+
 header {
   width: 100%;
   display: flex;
 }
-  
+
 .menu-bar {
   width: 90%;
   display: flex;
@@ -44,21 +44,21 @@ header {
   padding: 1rem;
   gap: 2rem;
 }
-  
+
 .hamburger-menu {
   width: 18px;
   height: 18px;
 }
-  
+
 h2,
 p {
   color: white;
 }
-  
+
 ul {
   display: none;
 }
-  
+
 /* section styles */
 .hero-section {
   width: 100%;
@@ -69,12 +69,12 @@ ul {
   line-height: 1.4rem;
   padding: 0.5rem;
 }
-  
+
 section {
   width: 100%;
   margin-top: 1rem;
 }
-  
+
 .content {
   display: flex;
   flex-direction: column;
@@ -82,7 +82,7 @@ section {
   width: 98%;
   margin-top: 32px;
 }
-  
+
 .section-one {
   width: 100%;
   display: flex;
@@ -91,7 +91,7 @@ section {
   align-items: center;
   gap: 1rem;
 }
-  
+
 .section-four {
   background-color: white;
   display: flex;
@@ -99,7 +99,7 @@ section {
   gap: 16px;
   padding-top: 1rem;
 }
-  
+
 /* button styles here */
 .btn {
   display: flex;
@@ -113,7 +113,7 @@ section {
   border: 1px solid white;
   margin: 1rem auto;
 }
-  
+ 
 .cta {
   display: flex;
   align-items: center;
