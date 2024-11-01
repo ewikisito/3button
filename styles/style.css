@@ -102,10 +102,9 @@ section {
   padding-top: 1rem;
 }
 
-/* section here end */
-
 /* button styles here */
-.btn { 
+
+.btn {
   display: flex;
   align-items: center;
   text-align: center;
@@ -118,8 +117,8 @@ section {
   margin: 1rem auto;
 }
 
-.cta,
-.discover { 
+.cta, 
+.discover {
   display: flex;
   align-items: center;
   text-align: center;
@@ -130,7 +129,7 @@ section {
   border-radius: 8px;
   border: 1px solid black;
   margin: 1rem auto;
- }
+}
 
 /* button styles */
 
@@ -173,6 +172,9 @@ img {
   display: flex;
   align-content: space-between;
   justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
 .image-wrap {
@@ -181,18 +183,8 @@ img {
   display: flex;
 }
 
-
-.sponsor {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-}
-
-/* images end here */
-
 /* other styling */
-.work-sec,
-.heading-paragraph-button  {
+.work-sec .heading-paragraph-button {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -207,21 +199,18 @@ img {
 .client {
   font-family: sans-serif;
   padding: 12px;
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
 }
 
 .heading-three,
-.paragraph { 
+.paragraph {
   color: black;
 }
 
 .r {
   color: blue;
-}
-
-.client {
-  display: flex;
-  align-content: space-between;
-  justify-content: space-between;
 }
 
 .box1,
@@ -244,7 +233,7 @@ img {
   justify-content: center;
 }
 
-.content-holder ,
+.content-holder,
 .content-image-item {
   display: flex;
   flex-direction: column;
@@ -255,7 +244,7 @@ img {
   color: blue;
 }
 
-h4 { 
+h4 {
   text-align: center;
 }
 
@@ -273,7 +262,7 @@ h4 {
 .footer {
   display: flex;
   flex-direction: column;
-  gap:1rem;
+  gap: 1rem;
 }
 
 .footer-list,
