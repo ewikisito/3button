@@ -117,7 +117,20 @@ section {
   margin: 1rem auto;
 }
 
-.cta, 
+.cta {
+    display: flex;
+  align-items: center;
+  text-align: center;
+  width: 132px;
+  padding: 0.5rem;
+  background-color: transparent;
+  color: black;
+  border-radius: 8px;
+  border: 1px solid #000;
+  margin: 1rem auto;
+  font-size: 1rem;
+}
+
 .discover {
   display: flex;
   align-items: center;
